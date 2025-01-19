@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practy.Service/1.0.0": {
+        "dependencies": {
+          "Practy.Core": "1.0.0"
+        },
+        "runtime": {
+          "Practy.Service.dll": {}
+        }
+      },
+      "Practy.Core/1.0.0": {
+        "runtime": {
+          "Practy.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practy.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practy.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

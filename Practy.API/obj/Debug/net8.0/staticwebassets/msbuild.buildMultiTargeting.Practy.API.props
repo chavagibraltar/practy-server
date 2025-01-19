@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practy.API.props" />
+</Project>

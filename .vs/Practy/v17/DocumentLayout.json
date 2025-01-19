@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88AC604B-C9BC-4670-92DA-7913C3927777}|Practy.Data\\Practy.Data.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AC604B-C9BC-4670-92DA-7913C3927777}|Practy.Data\\Practy.Data.csproj|solutionrelative:practy.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|solutionrelative:practy.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDE90DE-255A-4FB3-B56B-F49EC0FE734D}|Practy.API\\Practy.API.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDE90DE-255A-4FB3-B56B-F49EC0FE734D}|Practy.API\\Practy.API.csproj|solutionrelative:practy.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A3295E-A925-4CFA-B85A-BCA7B6759FB7}|Practy.Service\\Practy.Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A3295E-A925-4CFA-B85A-BCA7B6759FB7}|Practy.Service\\Practy.Service.csproj|solutionrelative:practy.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AC604B-C9BC-4670-92DA-7913C3927777}|Practy.Data\\Practy.Data.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AC604B-C9BC-4670-92DA-7913C3927777}|Practy.Data\\Practy.Data.csproj|solutionrelative:practy.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|solutionrelative:practy.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF32EC-14F4-4268-B2D1-3CA2D3E5DE8B}|Practy.Core\\Practy.Core.csproj|solutionrelative:practy.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDE90DE-255A-4FB3-B56B-F49EC0FE734D}|Practy.API\\Practy.API.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 c\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\practy\\practy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDE90DE-255A-4FB3-B56B-F49EC0FE734D}|Practy.API\\Practy.API.csproj|solutionrelative:practy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practy.API\\Program.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.API\\Program.cs",
+              "RelativeToolTip": "Practy.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:34:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Service\\ClientService.cs",
+              "RelativeDocumentMoniker": "Practy.Service\\ClientService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Service\\ClientService.cs",
+              "RelativeToolTip": "Practy.Service\\ClientService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAD4vyEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:21:23.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Practy.Data\\DataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Data\\DataContext.cs",
+              "RelativeToolTip": "Practy.Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:20:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Practy.Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Practy.Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:20:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Practy.Core\\Entities\\Client.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Entities\\Client.cs",
+              "RelativeToolTip": "Practy.Core\\Entities\\Client.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:17:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "Practy.Core\\Services\\IClientService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Services\\IClientService.cs",
+              "RelativeToolTip": "Practy.Core\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:19:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Practy.Core\\Repositories\\IClientRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.Core\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Practy.Core\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:18:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Practy.API\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 C\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 - \u05E4\u05E8\u05E7\u05D8\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\2\\Practy\\Practy.API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Practy.API\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:17:01.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
